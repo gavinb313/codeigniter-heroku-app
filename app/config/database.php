@@ -82,10 +82,10 @@ $db['default'] = array(
 	//'password' => '',
 	//'database' => 'facebook',
 
-	'hostname' => $cleardb_server,
-	'username' => $cleardb_username,
-	'password' => $cleardb_password,
-	'database' => $cleardb_db,
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
+	'database' => '',
 
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
